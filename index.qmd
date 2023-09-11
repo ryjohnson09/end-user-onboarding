@@ -1,0 +1,60 @@
+---
+css: styles.css
+---
+
+
+## Learn The Basics
+
+## Quarto
+
+::: card-group
+::: card
+![](thumbnails/intro-to-quarto.png){.card-img-top}
+
+2 min
+
+<a href="https://rstudio.wistia.com/medias/iuz3hallk4" class="stretched-link"></a>
+:::
+
+::: card
+![](thumbnails/quarto-rstudio.png){.card-img-top}
+
+2 min
+
+<a href="https://rstudio.wistia.com/medias/1pptqj1cvm" class="stretched-link"></a>
+:::
+
+::: card
+![](thumbnails/quarto-vscode.png){.card-img-top}
+
+2 min
+
+<a href="https://rstudio.wistia.com/medias/tl3ywwreyv" class="stretched-link"></a>
+:::
+:::
+
+::: card-group
+::: card
+![](thumbnails/quarto-jupyter.png){.card-img-top}
+
+2 min
+
+<a href="https://rstudio.wistia.com/medias/qqkv71bcoq" class="stretched-link"></a>
+:::
+
+::: card
+![](thumbnails/quarto-publish.png){.card-img-top}
+
+4 min
+
+<a href="https://rstudio.wistia.com/medias/888fkqw0mc" class="stretched-link"></a>
+:::
+
+::: card
+![](thumbnails/advancing-quarto.png){.card-img-top}
+
+3 min
+
+<a href="https://rstudio.wistia.com/medias/hdyyddflqi" class="stretched-link"></a>
+:::
+:::
