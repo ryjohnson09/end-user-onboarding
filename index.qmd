@@ -2,8 +2,15 @@
 css: styles.css
 ---
 
+## Introduction
 
-## Learn The Basics
+::: card
+![](thumbnails/pst-welcome.png){.card-img-top}
+
+2 min
+
+<a href="https://rstudio.wistia.com/medias/qizrh74hrr" class="stretched-link"></a>
+:::
 
 ## Quarto
 
@@ -57,4 +64,14 @@ css: styles.css
 
 <a href="https://rstudio.wistia.com/medias/hdyyddflqi" class="stretched-link"></a>
 :::
+:::
+
+## Shiny
+
+::: card
+![](thumbnails/intro-to-shiny.png){.card-img-top}
+
+2 min
+
+<a href="https://rstudio.wistia.com/medias/yjuppojzr2" class="stretched-link"></a>
 :::
