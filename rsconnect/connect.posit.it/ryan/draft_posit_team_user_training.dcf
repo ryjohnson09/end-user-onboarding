@@ -5,7 +5,7 @@ account: ryan
 server: connect.posit.it
 hostUrl: https://connect.posit.it/__api__
 appId: 10393
-bundleId: 433539
+bundleId: 434169
 url: https://connect.posit.it/draft-user-onboarding-page/
 version: 1
 asMultiple: FALSE

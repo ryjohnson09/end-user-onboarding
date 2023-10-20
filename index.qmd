@@ -9,7 +9,7 @@ css: styles.css
 
 2 min
 
-<a href="https://rstudio.wistia.com/medias/qizrh74hrr" class="stretched-link"></a>
+<a href="https://rstudio.wistia.com/medias/ultwcwirl7" class="stretched-link"></a>
 :::
 
 ## Quarto
@@ -60,7 +60,7 @@ css: styles.css
 ::: card
 ![](thumbnails/advancing-quarto.png){.card-img-top}
 
-3 min
+2 min
 
 <a href="https://rstudio.wistia.com/medias/hdyyddflqi" class="stretched-link"></a>
 :::
@@ -68,10 +68,48 @@ css: styles.css
 
 ## Shiny
 
+::: card-group
 ::: card
 ![](thumbnails/intro-to-shiny.png){.card-img-top}
 
 2 min
 
 <a href="https://rstudio.wistia.com/medias/yjuppojzr2" class="stretched-link"></a>
+:::
+
+::: card
+![](thumbnails/shiny-r.png){.card-img-top}
+
+2 min
+
+<a href="https://rstudio.wistia.com/medias/r173xsopgp" class="stretched-link"></a>
+:::
+
+::: card
+![](thumbnails/shiny-python.png){.card-img-top}
+
+3 min
+
+<a href="https://rstudio.wistia.com/medias/o36lkk18gf" class="stretched-link"></a>
+:::
+:::
+
+
+::: card-group
+::: card
+![](thumbnails/shiny-publish.png){.card-img-top}
+
+4 min
+
+<a href="https://rstudio.wistia.com/medias/xy94h7okmb" class="stretched-link"></a>
+:::
+
+::: card
+![](thumbnails/advancing-shiny.png){.card-img-top}
+
+2 min
+
+<a href="https://rstudio.wistia.com/medias/nkunbzo36p" class="stretched-link"></a>
+
+:::
 :::
