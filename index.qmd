@@ -94,7 +94,6 @@ css: styles.css
 :::
 :::
 
-
 ::: card-group
 ::: card
 ![](thumbnails/shiny-publish.png){.card-img-top}
@@ -110,6 +109,5 @@ css: styles.css
 2 min
 
 <a href="https://rstudio.wistia.com/medias/nkunbzo36p" class="stretched-link"></a>
-
 :::
 :::
