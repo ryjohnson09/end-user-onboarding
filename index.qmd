@@ -2,15 +2,20 @@
 css: styles.css
 ---
 
-## Introduction
+<img src="images/logo-team-full-color.svg" class="w-100"/>
 
-::: card
-![](thumbnails/pst-welcome.png){.card-img-top}
 
-2 min
+<h1> User Training </h1>
 
-<a href="https://rstudio.wistia.com/medias/ultwcwirl7" class="stretched-link"></a>
+::: increased-font-size
+Posit Team is the bundle of our most popular products including: Workbench, Connect, and Package Manager. Together, this bundle delivers an end-to-end toolchain for data science teams committed to R and Python, improving every step of a data scientist's workflow, from developing insights, to deploying data products, to managing environments.
+
+Below is a collection of short video tutorials to help data scientists and statistical programmers become familiar with Posit Team. The video are grouped by topic, and designed to be watched in order. If you're ready to start learning how Posit Team can improve your data science workflows, then check out the welcome video below, and have fun!
 :::
+
+<a href="https://rstudio.wistia.com/medias/ultwcwirl7" class="btn btn-primary btn-lg" role="button">Welcome Video!</a>
+
+<br>
 
 ## Quarto
 
