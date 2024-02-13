@@ -2,18 +2,32 @@ project:
   type: website
 
 website:
-  title: "Posit Team"
+  title: "Posit Team Tutorials"
+  search: false
+  favicon: "favicon.png"
   navbar:
-    left:
+    background: light
+    title: false
+    logo: images/logo-team-full-color.png
+    logo-alt: The logo for Posit Team
+    right:
       - href: index.qmd
-        text: Tutorials
+        text: Home
+      - href: https://posit.co/contact-posit/
+        text: Contact Posit
+        target: _blank
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: styles.scss
     toc: true
     toc-location: left
+    sidebar: false
+    smooth-scroll: true
+    grid:
+      sidebar-width: 300px
+      body-width: 775px
+      gutter-width: 3rem
 
 editor: visual
 

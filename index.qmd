@@ -1,129 +1,123 @@
 ---
-css: styles.css
+sidebar: false
+page-layout: article
 ---
+::::: {.column-body-outset-right}
 
-<img src="images/logo-team-full-color.svg" class="w-75"/>
+# Posit Team User Training
 
-<h1>User Training</h1>
-
-::: increased-font-size
+::: {.subtitle}
 Posit Team is the bundle of our most popular professional products including: Workbench, Connect, and Package Manager. Together, this bundle delivers an end-to-end toolchain for data science teams committed to R and Python, improving every step of a data scientist's workflow: from developing insights, to deploying data products, to managing environments.
 
 Below is a collection of short video tutorials to help data scientists and statistical programmers become familiar with Posit Team and help realize business value quickly with our products. These videos are grouped by topic and designed to be watched in order. If you're ready to start learning how Posit Team can improve your data science workflows, then check out the welcome video below and have fun!
 :::
 
-<a href="https://rstudio.wistia.com/medias/ultwcwirl7" class="btn btn-primary btn-lg" role="button">Welcome Video!</a>
+TODO: ADD WORKFLOW DESCRIPTION AND LINK
+TODO: HAVE QUESTIONS? visit COMMUNITY, visit Support, schedule a meeting with Customer Success?
 
-<br>
+
+<script src="https://fast.wistia.com/embed/medias/ultwcwirl7.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_ultwcwirl7 popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#" class="btn btn-primary" role="button">Welcome Video</a></span></div></div>
+
+<div class="my-5 border-bottom"></div> 
+
 
 ## Quarto
 
-::: card-group
-::: card
-![](thumbnails/intro-to-quarto.png){.card-img-top}
+##### An open-source scientific and technical publishing system {.subtitle}
 
-2 min
+::: {.grid .pt-4}
+::: {.g-col-md-4 .my-4 .card .p-1}
 
-<a href="https://rstudio.wistia.com/medias/iuz3hallk4" class="stretched-link"></a>
+<script src="https://fast.wistia.com/embed/medias/ultwcwirl7.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_ultwcwirl7 popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/quarto.jpg" class="card-img-top"></a></span></div></div>
+
+<p class="p-90 mt-3">2 min</p>
 :::
 
-::: card
-![](thumbnails/quarto-rstudio.png){.card-img-top}
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/1pptqj1cvm.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_1pptqj1cvm popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/quarto.jpg" class="card-img-top"></a></span></div></div>
 
-2 min
-
-<a href="https://rstudio.wistia.com/medias/1pptqj1cvm" class="stretched-link"></a>
+<p class="p-90 mt-3">2 min</p>
 :::
 
-::: card
-![](thumbnails/quarto-vscode.png){.card-img-top}
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/tl3ywwreyv.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_tl3ywwreyv popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/quarto.jpg" class="card-img-top"></a></span></div></div>
 
-2 min
-
-<a href="https://rstudio.wistia.com/medias/tl3ywwreyv" class="stretched-link"></a>
+<p class="p-90 mt-3">2 min</p>
 :::
 :::
 
-::: card-group
-::: card
-![](thumbnails/quarto-jupyter.png){.card-img-top}
+::: grid
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/qqkv71bcoq.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_qqkv71bcoq popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/quarto.jpg" class="card-img-top"></a></span></div></div>
 
-2 min
-
-<a href="https://rstudio.wistia.com/medias/qqkv71bcoq" class="stretched-link"></a>
+<p class="p-90 mt-3">2 min</p>
 :::
 
-::: card
-![](thumbnails/quarto-publish.png){.card-img-top}
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/888fkqw0mc.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_888fkqw0mc popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/quarto.jpg" class="card-img-top"></a></span></div></div>
 
-4 min
-
-<a href="https://rstudio.wistia.com/medias/888fkqw0mc" class="stretched-link"></a>
+<p class="p-90 mt-3">4 min</p>
 :::
 
-::: card
-![](thumbnails/advancing-quarto.png){.card-img-top}
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/hdyyddflqi.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_hdyyddflqi popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/quarto.jpg" class="card-img-top"></a></span></div></div>
 
-2 min
-
-<a href="https://rstudio.wistia.com/medias/hdyyddflqi" class="stretched-link"></a>
+<p class="p-90 mt-3">2 min</p>
 :::
 :::
+
+<div class="my-5 border-bottom"></div> 
 
 ## Shiny
 
-::: card-group
-::: card
-![](thumbnails/intro-to-shiny.png){.card-img-top}
+::: grid
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/yjuppojzr2.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_yjuppojzr2 popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/intro-to-shiny.png" class="card-img-top"></a></span></div></div>
 
-2 min
-
-<a href="https://rstudio.wistia.com/medias/yjuppojzr2" class="stretched-link"></a>
+<p class="p-90 mt-3">2 min</p>
 :::
 
-::: card
-![](thumbnails/shiny-r.png){.card-img-top}
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/r173xsopgp.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_r173xsopgp popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/shiny-r.png" class="card-img-top"></a></span></div></div>
 
-2 min
-
-<a href="https://rstudio.wistia.com/medias/r173xsopgp" class="stretched-link"></a>
+<p class="p-90 mt-3">2 min</p>
 :::
 
-::: card
-![](thumbnails/shiny-python.png){.card-img-top}
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/o36lkk18gf.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_o36lkk18gf popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/shiny-python.png" class="card-img-top"></a></span></div></div>
 
-3 min
-
-<a href="https://rstudio.wistia.com/medias/o36lkk18gf" class="stretched-link"></a>
+<p class="p-90 mt-3">3 min</p>
 :::
 :::
 
-::: card-group
-::: card
-![](thumbnails/shiny-publish.png){.card-img-top}
+::: grid
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/xy94h7okmb.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_xy94h7okmb popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/shiny-publish.png" class="card-img-top"></a></span></div></div>
 
-4 min
-
-<a href="https://rstudio.wistia.com/medias/xy94h7okmb" class="stretched-link"></a>
+<p class="p-90 mt-3">4 min</p>
 :::
 
-::: card
-![](thumbnails/advancing-shiny.png){.card-img-top}
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/nkunbzo36p.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_nkunbzo36p popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/advancing-shiny.png" class="card-img-top"></a></span></div></div>
 
-2 min
-
-<a href="https://rstudio.wistia.com/medias/nkunbzo36p" class="stretched-link"></a>
+<p class="p-90 mt-3">2 min</p>
 :::
 :::
+
+<div class="my-5 border-bottom"></div> 
 
 ## Posit Team Features
 
-::: card-group
-::: card
-![](thumbnails/git-backed.png){.card-img-top}
+::: grid
+::: {.g-col-md-4 .my-4 .card .p-1}
+<script src="https://fast.wistia.com/embed/medias/vcd3pt2k6u.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_vcd3pt2k6u popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/git-backed.png" class="card-img-top"></a></span></div></div>
 
-3 min
-
-<a href="https://rstudio.wistia.com/medias/vcd3pt2k6u" class="stretched-link"></a>
+<p class="p-90 mt-3">3 min</p>
 :::
 :::
+
+:::::
+
+
+
+<script src="https://fast.wistia.com/embed/medias/ultwcwirl7.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><span class="wistia_embed wistia_async_ultwcwirl7 popover=true popoverContent=link videoFoam=true" style="display:inline-block;height:84;position:relative;width:150"><a href="#"><img src="thumbnails/intro-to-quarto.png" class="card-img-top"></a></span></div></div>

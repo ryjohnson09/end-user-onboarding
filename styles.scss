@@ -1,0 +1,184 @@
+/*-- scss:defaults --*/
+// Fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+// POSIT THEME VARIABLES
+ 
+
+$blue: #3276b5;
+$primary: #3276b5;
+$body-bg: #ffffff;
+$body-color: #17212b;
+$font-family-sans-serif: 'Open Sans', sans-serif !default;
+$font-family-monospace: 'Source Code Pro', monospace !default;
+$link-color: #3276b5;
+$navbar-padding-y: 1rem;
+$btn-border-radius: .25rem;
+$btn-padding-y: 1rem;
+$btn-padding-x:     2rem;
+$btn-font-family:   $font-family-monospace;
+$btn-font-size: 16px;
+
+/*-- scss:rules --*/
+
+
+// Posit typography
+
+p {
+  font-size: 18px;
+  letter-spacing: .03em;
+  line-height: 160%;
+}
+
+h1 {
+  font-family: Open Sans, sans-serif;
+  font-size: 36px;
+  font-weight: 300;
+  line-height:120%;
+}
+
+@media (min-width: 1024px) {
+  h1 {
+      font-size:50px
+  }
+}
+
+h2 {
+  font-family: Open Sans, sans-serif;
+  font-size: 28px;
+  font-weight: 300;
+  line-height:120%;
+
+border-bottom: none;
+
+
+}
+
+@media (min-width: 1024px) {
+  h2 {
+      font-size:40px
+  }
+}
+nav .navbar-container {
+  max-width: 1282px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-left: 1rem;
+  padding-right: 1rem; 
+}
+
+// Table of Contents
+
+// remove on this page text
+
+.toc-active h2 {
+  display: none;
+}
+
+// Posit sidebar links styling
+
+.sidebar.sidebar-navigation>* {
+padding-top: 3em;
+}
+
+.sidebar nav[role=doc-toc]>ul a {
+  padding-left: 1.2rem;
+}
+
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active,  .sidebar nav[role=doc-toc] ul>li>a:hover, .sidebar nav[role=doc-toc] ul>li>ul>li>a:hover {
+  opacity: 1;
+  background-color: #f8f9fa;
+  color: #17212b !important;
+}
+
+.sidebar nav[role=doc-toc]>ul a.active {
+  border-left: 0px !important;
+}
+
+.sidebar nav[role=doc-toc]>ul a {
+  font-family: Open Sans,sans-serif;
+  font-size: 15px;
+  letter-spacing: .05em;
+  line-height: 160% !important;
+  color: rgba(23, 33, 43, 0.62) !important;
+  padding: 12px !important;
+  border-bottom: 1px solid #d7dfe4 !important;
+  border-left: none;
+}
+
+// old sidebar styling
+
+/*.sidebar li {
+    border-left: 1px solid #868686;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.sidebar li:before {
+  content: '';
+  height: 10px;
+  width: 10px;
+  border: 1px solid #868686;;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  left: 24px;
+  margin-top: 8px;
+}*/
+
+/*.sidebar nav[role=doc-toc] ul>li>a.active {
+    border-left: none;
+}*/
+
+
+
+// Cards
+
+.card {
+  /* Add shadows to create the "card" effect */
+  /*background-color: rgba(221,225,228,.2);
+border-radius: 8px;*/
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+outline-width: 0;
+padding: 32px;
+
+
+  border: none;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.card .card-img-top{
+  /*border-radius: 10px;
+  border: 2px solid #A2B8CB;*/
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  /*box-shadow: 0 3px 6px 0 rgba(0,0,0,0.2);*/
+  transform: scale(1.02, 1.02);
+  background-color: rgba(221,225,228,.2);
+border-radius: 8px;
+}
+
+// Text size classes
+
+.p-90 {
+  font-size: 90% !important;
+}
+
+
+// text opacity
+
+.subtitle {
+  color: rgba(23,33,43,.62);
+}
